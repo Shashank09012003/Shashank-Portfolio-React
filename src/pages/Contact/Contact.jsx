@@ -56,7 +56,7 @@ export default function Contact() {
   setStatus("Sending..."); // Add loading state
 
   const form = new FormData();
-  form.append("access_key",  import.meta.env.VITE_APP_WEB3FORMS_ACCESS_KEY);
+  form.append("access_key",  "f0fb3f18-181e-460a-9762-0dae3b158b7e");
   form.append("name", formData.name);
   form.append("email", formData.email);
   form.append("subject", formData.subject || "New Contact Form Submission");
