@@ -42,7 +42,7 @@ const projects = [
     link: "https://i.postimg.cc/PfDyVjPv/myportfoilo.png",
     color: "#ffe018ff",
     githubLink: "https://yougotmemed.netlify.app/",
-    liveLink: "https://my-portfolio-ts-snowy.vercel.app/",
+    liveLink: "https://shashank-portfolio-react.vercel.app/",
   },
 ];
 
